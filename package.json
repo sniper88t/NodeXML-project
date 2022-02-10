@@ -17,7 +17,7 @@
     "http": "0.0.1-security",
     "io": "^1.0.1",
     "javascript-obfuscator": "^0.28.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "socket.io": "^2.3.0",
     "sys": "0.0.1",
     "url": "^0.11.0"
